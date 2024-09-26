@@ -31,6 +31,9 @@
  - I draw manga panels from my favourite mangas
  - I like to rice Linux
 
+# Contact
+- 📬 Mail: tspamiitesh@gmail.com
+
 
 # Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
