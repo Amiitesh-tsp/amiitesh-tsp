@@ -1,10 +1,36 @@
-- 👋 Hi, I’m @Amiitesh-tsp, a undergrad student at Vellore Institute of Technology, Chennai
-- 👀 I’m interested in Linux and Coding with different programming languages
-- 🌱 I’m currently learning Shell Scripting in Linux
-- 📫 How to reach me through my LinkedIn: www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a
-- 📫 How to reach me through my mail: tspamiitesh@gmail.com
+<div align="center"> 
+  
+# 🌌 Welcome to My GitHub Universe! 
+</div>
 
-<!---
-Amiitesh-tsp/Amiitesh-tsp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 About Me
+- Hey people, I'm **Amiitesh** and I'm currently a student at **VIT Chennai**.
+- I look forward to continue my career focused towards Java and its frameworks.
+- I'm a very ardent **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
+
+# Interests
+### 💻 Programming
+- **OS**
+  - Arch Linux
+- **Languages:** 
+  - Python, Java
+- **IDE**
+  - Intellij, PyCharm, VSCode
+- **Documentation**
+  - Markdown
+- **Databases:** 
+  - MySQL
+- **Tools:** 
+  - Git
+ ### 🌱 Currently Learning
+ - In-Depth Java
+ - Learning to use Spring boot and Hibernate frameworks in Java
+ ### 🎨 Hobbies
+ - I am a Pianist
+ - I draw manga panels from my favourite mangas
+ - I like to rice Linux
+
+
+# Socials
+[![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
+[![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
