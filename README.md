@@ -22,7 +22,7 @@
 - **🗄️ Databases:** 
   - MySQL
 - **🛠️ Tools:** 
-  - Git
+  - 📦 Git
  ### 🌱 Currently Learning
  - In-Depth Java
  - Learning to use Spring boot and Hibernate frameworks in Java
