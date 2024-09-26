@@ -10,17 +10,17 @@
 
 # Interests
 ### 💻 Programming
-- **OS**
+- **🖥️ OS**
   - Arch Linux
 - **Languages:** 
   - Python, Java
-- **IDE**
+- **📜 IDE**
   - Intellij, PyCharm, VSCode
-- **Documentation**
+- **📄 Documentation**
   - Markdown
-- **Databases:** 
+- **🗄️ Databases:** 
   - MySQL
-- **Tools:** 
+- **🛠️ Tools:** 
   - Git
  ### 🌱 Currently Learning
  - In-Depth Java
