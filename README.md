@@ -2,6 +2,8 @@
   
 # 🌌 Welcome to My GitHub Universe! 
 </div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Amiitesh-tsp&label=Profile%20views&color=0e75b6&style=flat" alt="Amiitesh-tsp" /> </p>
+
 
 ## 🚀 About Me
 - Hey people, I'm **Amiitesh** and I'm currently a student at **VIT Chennai**.
@@ -41,3 +43,7 @@
 # Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
+
+# My Top Programming Languages
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amiitesh-tsp&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amiitesh-tsp" /></p>
+
