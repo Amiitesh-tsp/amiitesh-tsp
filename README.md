@@ -14,7 +14,7 @@
 - **🖥️ OS**
   - Arch Linux
 - **Languages:** 
-  - Python, Java
+  - 🐍 Python, ☕️ Java
 - **📜 IDE**
   - Intellij, PyCharm, VSCode
 - **📄 Documentation**
