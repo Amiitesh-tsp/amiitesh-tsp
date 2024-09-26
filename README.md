@@ -45,5 +45,5 @@
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
 
 # My Top Programming Languages
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Amiitesh-tsp&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amiitesh-tsp" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amiitesh-tsp&show_icons=true&theme=dark&locale=en&layout=compact" alt="Amiitesh-tsp" /></p>
