@@ -8,7 +8,8 @@
 - I look forward to continue my career focused towards Java and its frameworks.
 - I'm a very ardent **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
 
-#🌟 Interests
+# 🌟 Interests
+
 ### 💻 Programming
 - **🖥️ OS**
   - Arch Linux
