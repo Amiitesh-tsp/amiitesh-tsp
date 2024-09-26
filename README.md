@@ -31,9 +31,12 @@
  - I draw manga panels from my favourite mangas
  - I like to rice Linux
 
+# What you'll learn from my GitHub
+- You will learn basic Linux terminal commands and how to enhance your terminal experience and terminal CLIs.
+- You'll learn mainly Java and some Python projects/programs that I have work on.
+
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
-
 
 # Socials
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
