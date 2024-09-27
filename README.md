@@ -32,7 +32,7 @@
  - In-Depth Java
  - Learning to use Spring boot and Hibernate frameworks in Java
  ### 🎨 Hobbies
- - I am a Pianist
+ - I am a 🎹Pianist
  - I draw manga panels from my favourite mangas
  - I like to rice Linux
 
