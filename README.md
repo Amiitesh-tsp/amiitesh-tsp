@@ -46,4 +46,4 @@
 
 # My Top Programming Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiitesh-tsp&layout=compact)](https://github.com/Amiitesh-tsp)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amiitesh-tsp&layout=compact)](https://github.com/amiitesh-tsp)
