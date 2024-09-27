@@ -43,7 +43,7 @@
 # Contact
 - 📬 Mail: tspamiitesh@gmail.com
 
-# Socials
+# 👨‍💻 Socials and Profiles
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
 [![HackerRank](hackerrank1.png)](https://www.hackerrank.com/profile/tspamiitesh)
