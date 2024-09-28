@@ -18,6 +18,7 @@
 ### 💻 Programming
 - **🖥️ OS**
   - Arch Linux
+  - Ubuntu
 - **Languages:** 
   - 🐍 Python, ☕️ Java
 - **📜 IDE**
