@@ -17,10 +17,10 @@
 
 ### 💻 Programming
 - **🖥️ OS**
-  - Arch Linux
-  - Ubuntu
+  - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
+  - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages:** 
-  - 🐍 Python, ☕️ Java
+  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python, <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/Java-icon.png" width="16" height="16"> Java
 - **📜 IDE**
   - Intellij, PyCharm, VSCode
 - **📄 Documentation**
@@ -28,7 +28,7 @@
 - **🗄️ Databases:** 
   - MySQL
 - **🛠️ Tools:** 
-  - 📦 Git
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png" width="16" height="16"> Git
  ### 🌱 Currently Learning
  - In-Depth Java
  - Learning to use Spring boot and Hibernate frameworks in Java
@@ -48,7 +48,6 @@
 [![LinkedIn](linkedin.svg)](https://www.linkedin.com/in/amiitesh-pradeep-kumar-582bb831a/)
 [![Instagram](instagram.png)](https://www.instagram.com/tspamiitesh/)
 [![HackerRank](hackerrank1.png)](https://www.hackerrank.com/profile/tspamiitesh)
-
 
 
 # My Top Programming Languages
