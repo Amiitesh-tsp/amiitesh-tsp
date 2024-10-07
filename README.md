@@ -10,8 +10,8 @@
 - I look forward to continue my career focused towards Java and its frameworks.
 - I'm a very ardent **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
 
-<h3 align="left">Languages and Tools:</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&width=435&lines=Linux;Computer+Networks;Git;Software+Engineering;Cybersecurity+" alt="Typing SVG" /></a>
+<h3 align="left"> Interests</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=B4BEFE&width=435&lines=Linux;Computer+Networks;Cybersecurity+;Open+Source+Technologies+;Full+Stack+Development+" alt="Typing SVG" /></a>
 
 # 🌟 Interests
 
