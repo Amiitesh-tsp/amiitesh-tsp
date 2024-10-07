@@ -11,7 +11,7 @@
 - I'm a very ardent **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
 
 <h3 align="left"> Interests</h3>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=400&color=B4BEFE&width=435&lines=Linux;Computer+Networks;Cybersecurity+;Open+Source+Technologies+;Full+Stack+Development+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=400&color=B4BEFE&width=435&lines=Linux;Computer+Networks;Cybersecurity+;Open+Source+Technologies+;Full+Stack+Development+" alt="Typing SVG" /></a>
 
 # 🌟 Interests
 
