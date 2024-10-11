@@ -8,7 +8,7 @@
 ## 🚀 About Me
 - Hey people, I'm **Amiitesh** and I'm currently a student at **VIT Chennai**.
 - I look forward to continue my career focused towards Java and its frameworks.
-- I'm a very ardent **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
+- I'm a very ardent <img src="https://icons.iconarchive.com/icons/tatice/operating-systems/16/Linux-icon.png" width="16" height="16"> **Linux** user and have been using them since the day I started using computers and I seriously look forward to contribute big to **Open Source**.
 
 <h3 align="left"> Interests</h3>
 
@@ -22,18 +22,22 @@
   - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
   - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages:** 
-  - <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/Java-icon.png" width="16" height="16"> Java, <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python
+  - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java
+  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python
 - **📜 IDE**
-  - Intellij, PyCharm, VSCode
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/pycharm-icon.png" width="16" height="16"> PyCharm
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/visual-studio-code-icon.png" width="16" height="16"> VSCode
 - **📄 Documentation**
-  - Markdown
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-mimetypes/16/text-x-markdown-icon.png" width="16" height="16"> Markdown
 - **🗄️ Databases:** 
-  - MySQL
+  - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/mysql-workbench-icon.png" width="16" height="16"> MySQL
 - **🛠️ Tools:** 
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/git-icon.png" width="16" height="16"> Git
  ### 🌱 Currently Learning
  - In-Depth Java
- - Learning to use Spring boot and Hibernate frameworks in Java
+ - Learning to use Spring boot framework in Java
  ### 🎨 Hobbies
  - I am a 🎹Pianist
  - I draw manga panels from my favourite mangas
