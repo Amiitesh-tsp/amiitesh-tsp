@@ -22,7 +22,7 @@
   - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
   - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages:** 
-  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python, <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/Java-icon.png" width="16" height="16"> Java
+  - <img src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/16/Java-icon.png" width="16" height="16"> Java, <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python
 - **📜 IDE**
   - Intellij, PyCharm, VSCode
 - **📄 Documentation**
