@@ -60,6 +60,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amiitesh-tsp\&layout=compact)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amiitesh-tsp&show_icons=true&locale=en" alt="amiitesh-tsp" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Amiitesh-tsp&show_icons=true&locale=en" alt="Amiitesh-tsp" /></p>
 
 
