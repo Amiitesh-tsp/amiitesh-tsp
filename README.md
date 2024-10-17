@@ -24,6 +24,7 @@
 - **Languages:** 
   - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java
   - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python
+  - <img src="https://icons.iconarchive.com/icons/fa-team/fontawesome-brands/16/FontAwesome-Brands-Golang-icon.png" width="16" height="16"> Go
 - **📜 IDE**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
