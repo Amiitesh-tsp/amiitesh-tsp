@@ -22,9 +22,9 @@
   - <img src="https://icons.iconarchive.com/icons/fatcow/farm-fresh/16/arch-linux-icon.png" width="16" height="16"> Arch Linux
   - <img src="https://icons.iconarchive.com/icons/martz90/circle/16/ubuntu-icon.png" width="16" height="16"> Ubuntu
 - **Languages and Scripting:** 
-  - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java
-  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python
-  - <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/16/iTerm-icon.png" width="16" height="16"> Bash Script
+  - <img src="https://icons.iconarchive.com/icons/tatice/cristal-intense/16/Java-icon.png" width="16" height="16"> Java for larger projects
+  - <img src="https://icons.iconarchive.com/icons/cornmanthe3rd/plex/16/Other-python-icon.png" width="16" height="16"> Python for automation and creating CLIs
+  - <img src="https://icons.iconarchive.com/icons/froyoshark/enkel/16/iTerm-icon.png" width="16" height="16"> Bash Script for automation
 - **📜 IDE**
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/nvim-icon.png" width="16" height="16"> NeoVim
   - <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/16/intellij-icon.png" width="16" height="16"> Intellij
